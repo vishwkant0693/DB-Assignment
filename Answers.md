@@ -30,3 +30,5 @@ const userSchema = new Schema({
 
 const Users = mongoose.model('Users', userSchema);
 module.exports = Users;
+
+![userSchema](https://github.com/vishwkant0693/DB-Assignment/assets/62985421/1474e280-9fb4-48c5-ae78-b7bd52758d2b)
