@@ -1,8 +1,6 @@
-Answer 1 . The relationship between the "Products" and the "Product_Category" entities.
-------->  "category_id" in 'product table' is foreign key and connected to "id" in 'product_category' which is primary key.
+Answer 1 . The relationship between the "Products" and the "Product_Category" entities. "category_id" in 'product table' is foreign key and connected to "id" in 'product_category' which is primary key.
 
-Answer 2 . Insert all valid categories into the 'category' table.
-------->  then, ensure that the 'category_id' you assign to each product exists in the 'category' table.
+Answer 2 . Insert all valid categories into the 'category' table. then, ensure that the 'category_id' you assign to each product exists in the 'category' table.
 
 Answer 3 . Schema
 
